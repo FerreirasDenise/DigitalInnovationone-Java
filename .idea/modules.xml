@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DigitalInnovationone-Java.modularizacao.core.iml" filepath="$PROJECT_DIR$/DigitalInnovationone-Java.modularizacao.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modularizacao.java.core.iml" filepath="$PROJECT_DIR$/modularizacao.java.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulazizacao.java.core.iml" filepath="$PROJECT_DIR$/modulazizacao.java.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo.core/modulo.core.iml" filepath="$PROJECT_DIR$/modulo.core/modulo.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo.utils/modulo.utils.iml" filepath="$PROJECT_DIR$/modulo.utils/modulo.utils.iml" />
+    </modules>
+  </component>
+</project>
